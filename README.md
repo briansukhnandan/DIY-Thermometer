@@ -7,3 +7,5 @@ in my room.
 
 -How more components of the Arduino work such as an LCD monitor and the DHT11 Humidity Sensor.
 -More about setting up complex circuits and debugging hardware.
+
+https://www.youtube.com/watch?v=E3Fe2MIR394&feature=youtu.be
