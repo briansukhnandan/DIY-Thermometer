@@ -1,4 +1,4 @@
-# README #
+# Arduino DIY Thermometer #
 
 Another project I had been putting off for a long time, but I needed a way to continuously monitor the temperature
 in my room.
